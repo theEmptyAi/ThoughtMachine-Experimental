@@ -1,0 +1,9 @@
+{
+    "name": "dev_reply",
+    "description": "Developer-mode chat responder",
+    "inputs": ["text"],
+    "outputs": ["reply"],
+    "model": "gpt-4o",
+    "temperature": 0.3
+  }
+  

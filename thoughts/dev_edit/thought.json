@@ -1,0 +1,8 @@
+{
+  "name": "dev_edit",
+  "description": "Modify the in-memory drafts by passing an instruction to the LLM.",
+  "inputs": ["text"],
+  "outputs": ["reply"],
+  "model": "gpt-4o-mini",
+  "temperature": 0.3
+}

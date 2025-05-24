@@ -1,0 +1,8 @@
+{
+  "name": "code_file_write",
+  "description": "Create or overwrite a text file inside the active project",
+  "inputs": ["filepath", "content"],
+  "outputs": ["reply", "file_path"],
+  "model": "gpt-4o-mini",
+  "temperature": 0.0
+}

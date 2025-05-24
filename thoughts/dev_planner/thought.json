@@ -1,0 +1,8 @@
+{
+  "name": "dev_planner",
+  "description": "Planner used while the conversation is in developer-mode. It decides whether to answer directly with dev_reply or to invoke one of the dev_* thoughts (new, edit, save, show, reset, etc.).",
+  "inputs": ["goal", "catalogue", "intent"],
+  "outputs": ["plan"],
+  "model": "gpt-4o-mini",
+  "temperature": 0.25
+}

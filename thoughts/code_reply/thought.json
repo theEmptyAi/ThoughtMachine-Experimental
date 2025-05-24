@@ -1,0 +1,8 @@
+{
+  "name": "code_reply",
+  "description": "LLM-powered replier used in the code_dev profile. Takes the *text* param (often the stdout of a preceding code_repl step) and turns it into a natural-language reply.",
+  "inputs": ["text"],
+  "outputs": ["reply"],
+  "model": "gpt-4o-mini",
+  "temperature": 0.7
+}

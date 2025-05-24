@@ -1,0 +1,1 @@
+Take a screenshot on a Windows machine and save it to a file.

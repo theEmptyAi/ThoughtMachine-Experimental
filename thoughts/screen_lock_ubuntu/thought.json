@@ -1,0 +1,11 @@
+{
+  "name": "screen_lock_ubuntu",
+  "description": "Locks the screen on an Ubuntu system.",
+  "parameters": {},
+  "outputs": {
+    "success": "boolean"
+  },
+  "icon": "🔒",
+  "author": "assistant",
+  "version": "1.0.0"
+}

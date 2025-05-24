@@ -1,0 +1,8 @@
+{
+    "name": "thought_crafter",
+    "description": "Interactively crafts a new thought by guiding the user step-by-step.",
+    "inputs": ["task"],
+    "outputs": ["reply"],
+    "model": "gpt-4o",
+    "temperature": 0.3
+  }

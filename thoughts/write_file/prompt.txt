@@ -1,0 +1,1 @@
+The 'write_file' thought writes the provided content to a specified file, appending a UTC timestamp at the beginning of the content. It accepts two inputs: 'filename' and 'content'. The 'filename' is the name of the file where the content will be written, and 'content' is the text to be written. The thought returns the 'filepath' of the written file.

@@ -1,0 +1,1 @@
+Move the mouse cursor to the center of the screen.

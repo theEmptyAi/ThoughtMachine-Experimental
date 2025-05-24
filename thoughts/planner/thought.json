@@ -1,0 +1,8 @@
+{
+    "name": "planner",
+    "description": "LLM-based planner that converts a user goal into a DAG.",
+    "inputs": ["goal", "catalogue", "intent"],
+    "outputs": ["plan"],
+    "model": "gpt-4o",
+    "temperature": 0.3
+}

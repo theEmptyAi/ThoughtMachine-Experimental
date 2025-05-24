@@ -1,0 +1,1 @@
+The function should delete the file located at the specified filepath provided in the inputs.

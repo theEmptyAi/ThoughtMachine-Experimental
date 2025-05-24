@@ -1,0 +1,1 @@
+Determine the exact pip command to install the Python library named '{{library_name}}'.

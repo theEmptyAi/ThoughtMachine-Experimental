@@ -1,0 +1,6 @@
+{
+    "name": "echo",
+    "description": "Return the supplied text verbatim.",
+    "inputs": ["text"],
+    "outputs": ["reply"]
+}

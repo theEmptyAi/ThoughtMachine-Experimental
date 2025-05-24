@@ -1,0 +1,8 @@
+{
+  "name": "draft_linked_post",
+  "description": "Draft a LinkedIn post from user instructions; if unclear, ask a clarifying question. do not add any pre sentence or post sentece or word, only draft should be there which can be posted by bot",
+  "inputs": ["instruction"],
+  "outputs": ["reply"],
+  "model": "gpt-4o",
+  "temperature": 0.3
+}

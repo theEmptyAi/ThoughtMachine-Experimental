@@ -1,0 +1,6 @@
+{
+  "name": "wait",
+  "description": "Waits for a specified number of seconds.",
+  "inputs": ["seconds"],
+  "outputs": ["reply"]
+}

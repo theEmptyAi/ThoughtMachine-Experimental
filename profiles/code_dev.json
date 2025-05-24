@@ -1,0 +1,5 @@
+{
+  "planner": "code_planner",
+  "replier": "code_reply",
+  "thoughts": ["code_*", "thought_list"]
+}

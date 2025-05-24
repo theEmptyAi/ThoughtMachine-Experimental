@@ -1,0 +1,8 @@
+{
+  "name": "code_planner",
+  "description": "Plan file-and-folder scaffolds for new code projects",
+  "inputs": ["goal", "catalogue", "intent"],
+  "outputs": ["plan"],
+  "model": "gpt-4o",
+  "temperature": 0.3
+}
