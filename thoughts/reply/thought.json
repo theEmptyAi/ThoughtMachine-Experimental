@@ -1,0 +1,8 @@
+{
+    "name": "reply",
+    "description": "Free-form chat response",
+    "inputs": ["text"],
+    "outputs": ["reply"],
+    "model": "gpt-4o",
+    "temperature": 0.7
+}

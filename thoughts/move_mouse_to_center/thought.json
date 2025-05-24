@@ -1,0 +1,9 @@
+{
+  "name": "move_mouse_to_center",
+  "description": "Moves the mouse cursor to the center of the screen.",
+  "parameters": {},
+  "outputs": {},
+  "icon": "🖱️",
+  "author": "assistant",
+  "version": "1.0.0"
+}

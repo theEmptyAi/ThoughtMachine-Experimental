@@ -1,0 +1,6 @@
+{
+  "name": "dev_diff",
+  "description": "Return a unified diff between *original* and *updated* content.",
+  "inputs": ["original", "updated", "filename"],
+  "outputs": ["diff"]
+}

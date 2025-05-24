@@ -1,0 +1,6 @@
+{
+  "name": "dev_show",
+  "description": "Show the current in-memory draft files.",
+  "inputs": [],
+  "outputs": ["reply"]
+}

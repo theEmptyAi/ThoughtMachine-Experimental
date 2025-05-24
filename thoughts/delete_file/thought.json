@@ -1,0 +1,6 @@
+{
+  "name": "delete_file",
+  "description": "Deletes the file at the given path.",
+  "inputs": ["filepath"],
+  "outputs": ["reply"]
+}

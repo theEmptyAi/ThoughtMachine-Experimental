@@ -1,0 +1,9 @@
+{
+  "name": "move_mouse_top_right",
+  "description": "Moves the mouse cursor to the top right corner of the screen.",
+  "parameters": {},
+  "outputs": {},
+  "icon": "🖱️",
+  "author": "assistant",
+  "version": "1.0.0"
+}

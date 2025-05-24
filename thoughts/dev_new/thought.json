@@ -1,0 +1,8 @@
+{
+  "name": "dev_new",
+  "description": "Bootstrap a brand-new thought from scratch with the help of an LLM; auto-generates *thought.json*, *prompt.txt*, and *code.py* drafts, or re-names/refines them when given further instructions.",
+  "inputs": ["thought", "name", "text"],
+  "outputs": ["reply"],
+  "model": "gpt-4o",
+  "temperature": 0.25
+}

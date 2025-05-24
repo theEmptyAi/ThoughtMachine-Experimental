@@ -1,0 +1,9 @@
+{
+  "name": "open_file_explorer",
+  "description": "Opens the file explorer on Ubuntu and navigates to Home/Documents/gsm.",
+  "parameters": {},
+  "outputs": {
+    "success": "boolean"
+  },
+  "icon": "📂"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "dev_reset",
+  "description": "Discard all in-memory drafts (add `force=true` to suppress the warning when nothing is loaded).",
+  "inputs": ["force"],
+  "outputs": ["reply"]
+}

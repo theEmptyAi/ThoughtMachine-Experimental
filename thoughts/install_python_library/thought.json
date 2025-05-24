@@ -1,0 +1,22 @@
+{
+  "name": "install_python_library",
+  "description": "Installs any Python library in the current environment using pip, determining the exact pip command with the help of an LLM model.",
+  "parameters": {
+    "library_name": {
+      "type": "string",
+      "description": "The name of the Python library to install."
+    }
+  },
+  "outputs": {
+    "success": {
+      "type": "boolean",
+      "description": "Indicates if the library was installed successfully."
+    },
+    "message": {
+      "type": "string",
+      "description": "A message describing the result of the installation process."
+    }
+  },
+  "model": "gpt-4o-mini",
+  "temperature": 0.2
+}

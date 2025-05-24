@@ -1,0 +1,6 @@
+{
+  "name": "dev_save",
+  "description": "Persist the draft buffer to the filesystem.",
+  "inputs": [],
+  "outputs": ["reply"]
+}

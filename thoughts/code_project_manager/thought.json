@@ -1,0 +1,8 @@
+{
+  "name": "code_project_manager",
+  "description": "Create or switch the active project under /home/ubuntu/emptyWorkspace",
+  "inputs": ["project_name"],
+  "outputs": ["reply", "project_path"],
+  "model": "gpt-4o-mini",
+  "temperature": 0.0
+}

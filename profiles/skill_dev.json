@@ -1,0 +1,6 @@
+{
+  "planner": "dev_planner",
+  "replier": "dev_reply",
+  "thoughts": ["dev_*", "thought_list", "load_thought",
+             "dev_codegen", "dev_diff", "dev_patch"]
+}

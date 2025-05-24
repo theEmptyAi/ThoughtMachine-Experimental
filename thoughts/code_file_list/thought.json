@@ -1,0 +1,8 @@
+{
+  "name": "code_file_list",
+  "description": "List files in the active project using a glob pattern",
+  "inputs": ["glob"],
+  "outputs": ["reply", "files"],
+  "model": "gpt-4o-mini",
+  "temperature": 0.0
+}
