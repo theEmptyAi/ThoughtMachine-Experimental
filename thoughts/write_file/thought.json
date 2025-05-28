@@ -1,6 +1,0 @@
-{
-    "name": "write_file",
-    "description": "Write <content> to <filename> together with a UTC timestamp.",
-    "inputs": ["filename", "content"],
-    "outputs": ["filepath"]
-}

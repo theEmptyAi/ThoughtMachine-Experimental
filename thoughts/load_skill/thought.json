@@ -1,6 +1,0 @@
-{
-    "name": "load_thought",
-    "description": "Load an existing thought into the buffer for modification.",
-    "inputs": ["thought"],
-    "outputs": ["reply"]
-  }

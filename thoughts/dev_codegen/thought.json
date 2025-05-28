@@ -1,8 +1,0 @@
-{
-  "name": "dev_codegen",
-  "description": "Create or patch thought drafts with the help of an LLM. Auto-picks a name, libraries, and wraps external deps in a first-run installer.",
-  "inputs": ["text"],
-  "outputs": ["reply"],
-  "model": "gpt-4o-mini",
-  "temperature": 0.25
-}

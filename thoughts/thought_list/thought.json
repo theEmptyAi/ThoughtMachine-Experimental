@@ -1,8 +1,0 @@
-{
-    "name": "thought_list",
-    "description": "List all installed thoughts with a friendly LLM-generated summary",
-    "inputs": [],
-    "outputs": ["thoughts"],
-    "model": "gpt-4o-mini",
-    "temperature": 0.3
-}

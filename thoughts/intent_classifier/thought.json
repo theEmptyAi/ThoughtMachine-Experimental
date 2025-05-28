@@ -1,8 +1,0 @@
-{
-    "name": "intent_classifier",
-    "description": "Intent classifier that labels the user turn with a single natural-language intent (e.g. \"greeting\", \"question\", \"code request\", etc.). It **does not** choose thoughts.",
-    "inputs": ["history", "text"],
-    "outputs": ["intent"],
-    "model": "gpt-4o",
-    "temperature": 0.3
-}

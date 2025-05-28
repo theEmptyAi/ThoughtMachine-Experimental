@@ -1,8 +1,0 @@
-{
-  "name": "result_to_reply",
-  "description": "Turn arbitrary JSON data produced by the previous thought into a natural-language answer tailored to the user's request.",
-  "inputs": ["data", "goal"],
-  "outputs": ["reply"],
-  "model": "gpt-4o-mini",
-  "temperature": 0.5
-}
